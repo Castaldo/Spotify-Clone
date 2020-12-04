@@ -1,6 +1,6 @@
 ## Spotify Clone
 
-The objective of this project was to create a user interface as similar as possible top Spotify's using the Spotify Web API. This projected is limited in scope as it is meant to only emulate the UI. 
+The objective of this project was to create a user interface  similar to Spotify's. The app used Spotify Web API for OAuth but is limited in scope as it is meant to only emulate the UI. Build using React.js
 
 ![alt text](https://imgur.com/eMWAFpy.png)
 
